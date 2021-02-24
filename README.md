@@ -5,9 +5,10 @@ Created the backend of an application with a server with basic authentication. A
 Nick Abramowicz
 
 ## Deployed Heroku
-
+https://bearer-auth-nick.herokuapp.com/
 
 ## Github Pull Request(s)
+https://github.com/nickdeans/bearer-auth/pull/2
 
 ## UML
 ![UML](./assets/UML.png)
